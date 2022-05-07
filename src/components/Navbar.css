@@ -1,0 +1,27 @@
+.nav{
+    display: flow-root;
+    margin: 0;
+    text-align: end;
+    padding: 10px;
+}
+
+.navlink{
+    text-decoration: none;
+    padding: 5rem;
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn{
+    
+    margin-right: 3rem;
+    color: #fff;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    border: 0;
+    background-color: rgb(13, 240, 248);
+    border-radius: 20px;
+}
+.btn:hover{
+   background-color: green;
+}
